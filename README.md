@@ -63,9 +63,9 @@ The data is divided into three folders.
 
     intermediate: data filtered for Norfolk county - filtering/cleaning done using Microsoft Excel
 
-    processed: all outputs from this notebook go into this folder
+    processed: all outputs from Data Processing notebook go into this folder
 
-Detailed descriptions of data folders can be found here.
+Detailed descriptions of data folders can be found [here](https://github.com/anuhyabs/data512_project_extension/blob/main/documents/Data%20File%20Descriptions.pdf).
 
 **documents:**:
 - *Collective Analsyis.pdf*: Results of Project Part-1
