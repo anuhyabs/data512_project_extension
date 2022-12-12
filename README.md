@@ -3,7 +3,7 @@
 ## Motivation of the Project
 The period of Covid 19, especially the onset of the pandemic, was a tough time for all us. But it was harder for some of us than others. I wanted to explore this side of the pandemic, it’s effect on employment and how if effected the communities in **Norfolk County in Massachusetts**.
 
-## Problem Stetments:
+## Problem Statements:
 - How did the increase in COVID-19 cases impact employment in Norfolk County in 2020-2021?
 
 - Was there an increase in the unemployment claims as COVID-19 progressed in 2020-2021?
@@ -97,4 +97,3 @@ It also deals with application on statistical tests on the unemployment claims d
 - Marginalized communities are impacted more at the onset of an unexpected disaster.
 - Steps can be taken by the government in the face of such disasters to help communities beforehand. 
 - These results help us understand what unemployment looks like during a pandemic and help plan the future much better. 
-
