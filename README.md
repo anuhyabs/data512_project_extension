@@ -86,13 +86,13 @@ It also deals with application on statistical tests on the unemployment claims d
 
 ## Results
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![results1](https://github.com/anuhyabs/data512_project_extension/blob/main/results/covid_vs_labor.png?raw=true)
 
 - At the onset of the pandemic, during the first increase of COVID cases, it can be observed that there is a sharp increase in unemployment in the county.
 - However, as the pandemic progresses and we see a rise in the cases, the unemployment in the county gradually decreases.
 - From the above plots, we cannot say for sure that the impact on employment was solely due to covid cases but it does seem to point that in the face of unexpected disaster, the employment numbers do get impacted until economic support is provided by governments.
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![results2](https://github.com/anuhyabs/data512_project_extension/blob/main/results/demographic.png?raw=true)
 
 - Marginalized communities are impacted more at the onset of an unexpected disaster.
 - Steps can be taken by the government in the face of such disasters to help communities beforehand. 
