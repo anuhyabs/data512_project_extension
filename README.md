@@ -72,12 +72,13 @@ Detailed descriptions of data folders can be found [here](https://github.com/anu
 - *Extension Plan.pdf*: Project plan for Part-2.
 - *Presentation.pptx*: Presentation of results for Part-2.
 - *Project Report.pdf*: Final Project report. 
-- **Data file descriptions.pdf:* Detailed descriptions of files in the data folders.
+- *Data file descriptions.pdf:* Detailed descriptions of files in the data folders.
 
 **results**:
 - *claims.png*: Visualization of unemployment claims in Norfolk County.
 - *covid_vs_labor.png*: Visualization of COVID 19 confirmed cases vs Labor Force.
 - *demographic.png*: Visualization of unemployment claims by demographic in Norfolk county.
+- *claims_norfolk.png*: Visualization of unemployment claims in Norfolk County
 
 **source**:
 - *Data Analysis.ipynb*: This notebook deals with analysis and visualizing the processed data from the Data Processing Notebook.
@@ -97,3 +98,6 @@ It also deals with application on statistical tests on the unemployment claims d
 - Marginalized communities are impacted more at the onset of an unexpected disaster.
 - Steps can be taken by the government in the face of such disasters to help communities beforehand. 
 - These results help us understand what unemployment looks like during a pandemic and help plan the future much better. 
+
+
+[**Link to Project Part 1**](https://github.com/anuhyabs/data512_project)
